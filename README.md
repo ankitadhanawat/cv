@@ -2,12 +2,14 @@
 
 ## Personal Data
 **Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
-**Phone:** +91 8288984593  
+**Phone:** +91 8288984593, +39 3335379742(current)
 **email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)  
 **Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
 
 
 ## Education
+- **Nov 2021 - Present:** PhD in climate change and sustainable development at the IUSS Pavia and the University of Urbino, Italy.
+                          Estimation of greenhouse gases using inverse modelling method over Europe.
 - **Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)  
    Cumulative Performance Index: 8.23/10.0
 
@@ -17,13 +19,14 @@ affiliated with the Central Board of Secondary Education (CBSE)
 
 ## Awards and Achievements
 
-- Recipient of Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
+- I was awarded the **Prime Minister's Research Fellowship(PMRF) 2021**.
+- Recipient of the Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
 from **Department of Science and Technology, Government of India (DST)**.
 
 - Qualified Joint Entrance Examination – Advanced in 2016
 
 ## Skills
-- Language Skills: Hindi, English and Marathi
+- Language Skills: Hindi, English, and Marathi
 - Programming languages: Python, R, C++, matlab, LaTeX
 - Softwares: Weather research forecasting(WRF-Chem), ROOT-data analysis framework, Climate data operators(CDO), Igor-pro
 - Big-data: Experience of handling big satellite data-sets and data visualization
