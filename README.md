@@ -3,6 +3,7 @@
 ## Personal Data
 **Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
 **Phone:** +91 8288984593, +39 3335379742(current)
+
 **email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)  
 **Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
 
@@ -19,11 +20,11 @@ affiliated with the Central Board of Secondary Education (CBSE)
 
 ## Awards and Achievements
 
-- I was awarded the **Prime Minister's Research Fellowship(PMRF) 2021**.
+- I was awarded the **Prime Minister's Research Fellowship(PMRF) 2021** by the Ministry of Education, Government of India.
 - Recipient of the Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
 from **Department of Science and Technology, Government of India (DST)**.
-
-- Qualified Joint Entrance Examination – Advanced in 2016
+- Qualified Joint Entrance Examination mains and advanced, 2016 conducted by National Testing Agency(NTA), India.
+- Recipient of merit-cum-means fellowship at IISER Mohali.
 
 ## Skills
 - Language Skills: Hindi, English, and Marathi
@@ -54,6 +55,8 @@ from **Department of Science and Technology, Government of India (DST)**.
 
 ## Publications
 1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118.[find here](https://www.sciencedirect.com/science/article/pii/S2590162121000186.)
+2. Sharma, G., Annadate, S., Sinha, B.(2022). "Will open waste burning become India’s largest air pollution source?" Environmental Pollution, Volume 292, Part A, 118310
+3. Annadate, S., 2021, \A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
 
 ## Course-work projects
 
@@ -76,9 +79,11 @@ Analysis of different layered neural networks with different activation function
 The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.[code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
 ## Conferences/Workshops attended
-
-1. April 2021: Message Passing Interface(MPI) workshop, IISER Mohali
-2. Oct 2020: Vaishwik Vaighyanik(VAIBHAV) summit for climate change, India
-3. Oct 2019: Quantum Foundations, Technology and Applications QFTA-2019, IISER Mohali
-4. Jan 2017:Hands-on engineering machines workshop, Punjab Engineering College, Chandigarh 
+1. Dec 2021: 3rd EUMETSAT/ESA/ECMWF joint training in atmospheric composition
+2. Nov 2021: Workshop on Optical Aerosol properties by Italian Aerosol Society
+3. July 2021 IWAEC: Intensive Workshop on Atmospheric and Environmental Chemistry
+4. April 2021: Message Passing Interface(MPI) workshop, IISER Mohali
+5. Oct 2020: Vaishwik Vaighyanik(VAIBHAV) summit for climate change, India
+6. Oct 2019: Quantum Foundations, Technology and Applications QFTA-2019, IISER Mohali
+7. Jan 2017:Hands-on engineering machines workshop, Punjab Engineering College, Chandigarh 
 
