@@ -55,8 +55,8 @@ from **Department of Science and Technology, Government of India (DST)**.
 
 ## Publications
 1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118.[find here](https://www.sciencedirect.com/science/article/pii/S2590162121000186.)
-2. Sharma, G., Annadate, S., Sinha, B.(2022). "Will open waste burning become India’s largest air pollution source?" Environmental Pollution, Volume 292, Part A, 118310
-3. Annadate, S., 2021, \A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
+2. Sharma, G., **Annadate, S.**, Sinha, B.(2022). "Will open waste burning become India’s largest air pollution source?" Environmental Pollution, Volume 292, Part A, 118310
+3. Annadate, S., 2021, A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
 
 ## Course-work projects
 
