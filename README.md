@@ -5,7 +5,7 @@
 **Phone:** +91 8288984593, +39 3335379742(current)
 
 **email:** [saurabh.annadate9@gmail.com](saurabh.annadate9@gmail.com)  
-**Github:**  [saurabh-annadate](https://github.com/saurabh-annadate])
+**Github:**  [saurabh-annadate](https://github.com/saurabh-annadate)
 
 
 ## Education
