@@ -10,7 +10,7 @@
 
 ## Education
 - **Nov 2021 - Present:** PhD in climate change and sustainable development at the IUSS Pavia and the University of Urbino, Italy.
-                          Estimation of greenhouse gases using inverse modelling method over Europe.
+                          Estimation of greenhouse gases using inverse modelling method.
 - **Aug 2016 - May 2021:** BS-MS Dual degree at [IISER Mohali](http://www.iisermohali.ac.in/)  
    Cumulative Performance Index: 8.23/10.0
 
