@@ -46,6 +46,7 @@ from **Department of Science and Technology, Government of India (DST)**.
  - **PARIS Horizon Europe:**  Estimation of European Black Carbon fluxes using inverse modelling. [link](https://horizoneurope-paris.eu/source-attribution-for-european-aerosols/)
    
      Mentored by - Prof. Michela Maione, University of Urbino, Italy
+   
    I am involved in WP7, source attribution of European aerosols, of the PARIS Horizon Europe research project. I am leading the deliverable which aims to estimate European black carbon
     emission fluxes using top-down methods. I am also developing an optimization algorithm for wet-scavenging coefficients in the wet deposition parametrization scheme in the FLEXPART model.
    
@@ -66,6 +67,29 @@ at the European Scale. Atmosphere 15, 1 (Jan. 2024), 51. Number: 1 Publisher: Mu
 1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118. [find here](https://www.sciencedirect.com/science/article/pii/S2590162121000186.)
 2. Sharma, G., **Annadate, S.**, Sinha, B.(2022). "Will open waste burning become India’s largest air pollution source?" Environmental Pollution, Volume 292, Part A, 118310. [find here](https://www.sciencedirect.com/science/article/pii/S0269749121018923)
 3. Annadate, S., 2021, A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
+
+## Conferences
+- **April 2024** European Geosciences Union(EGU) General Assembly, Vienna, Austria.
+    Session Title: Estimates of HFC-134a Emissions over Europe informed by observations show a recent increase.
+
+- **June 2023**  GEIA: Global Emissions InitiAtive 20th conference, Brussels, Belgium (poster presentation).
+    Title: Long-term emission estimates of radiatively active species at the regional scale using inverse modelling techniques.
+
+- **May 2023** Advanced Global Atmospheric Gases Experiment (AGAGE) 67th meeting, CNR Bologna, Italy (oral presentation).
+    Title: Recent decrease in the HFC-134a emissions estimates over Italy: A top-down perspective
+
+
+## Co-authored conference contributions
+- Feb 2024 5th Congress of the Italian Association of Science for the Atmosphere and the Meteorology, Lecce, Italy (oral presentation). link
+    Title: MEDUSA-GC/MS solution, the most recent cryotechnology applied to the continuous analysis of climate-altering substances in air samples
+
+- Jan 2024 PARIS-Horizon EU project Annual Meeting, Bristol, UK (oral presentation).
+    Title: Top-down Italian emissions of HFC-134a: 15 years trend and a comparison with the Italian National Inventory Reports.
+
+- Sept 2023 20th Congress of Italian Chemical Society, Division of Environmental Chemistry, Ischia, Italy (oral presentation).
+    Title: Long-term emission estimates of radiatively active species at the regional scale using inverse modelling techniques: Science for Service
+
+- April 2023 European Geosciences Union(EGU) General Assembly, Vienna, Austria (oral presentation)
 
 ## Other projects
  - **Summer 2019:** Setting up optical tweezers and making a photo-acoustic sensor using Febri-Perot cavity  
