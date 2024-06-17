@@ -38,11 +38,13 @@ from **Department of Science and Technology, Government of India (DST)**.
 
 ## Experience in Atmospheric modelling
 - **PhD Project:** Emission estimates of radiatively active species at the regional scale using inverse modelling techniques.
+  
     Mentored by - Prof. Michela Maione, University of Urbino, Italy
 
   I use the analytical Bayesian inversion system to evaluate optimised fluxes of synthetic GHGs at the European country scale, using continuous, high-quality observations from the European observatories combined with footprints obtained using the atmospheric transport model(FLEXPART)
 
  - **PARIS Horizon Europe:**  Estimation of European Black Carbon fluxes using inverse modelling. [link](https://horizoneurope-paris.eu/source-attribution-for-european-aerosols/)
+   
      Mentored by - Prof. Michela Maione, University of Urbino, Italy
    I am involved in WP7, source attribution of European aerosols, of the PARIS Horizon Europe research project. I am leading the deliverable which aims to estimate European black carbon
     emission fluxes using top-down methods. I am also developing an optimization algorithm for wet-scavenging coefficients in the wet deposition parametrization scheme in the FLEXPART model.
@@ -66,7 +68,7 @@ at the European Scale. Atmosphere 15, 1 (Jan. 2024), 51. Number: 1 Publisher: Mu
 3. Annadate, S., 2021, A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
 
 ## Other projects
- - **Summer 2019 :** Setting up optical tweezers and making a photo-acoustic sensor using Febri-Perot cavity  
+ - **Summer 2019:** Setting up optical tweezers and making a photo-acoustic sensor using Febri-Perot cavity  
  Mentored by - Dr Sameer Biswas, IISER Mohali  
  My project was to develop a Fabri-Perot cavity-based sensor that can detect small photo-acoustic vibrations. This can be used to monitor living cells.
  
