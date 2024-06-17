@@ -2,7 +2,6 @@
 
 ## Personal Data
 **Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
-**Phone:** +91 8288984593, +39 3335379742(current)
 
 **email:** saurabh.annadate9@gmail.com | saurabh.annadate@iusspavia.it
 
@@ -80,7 +79,7 @@ at the European Scale. Atmosphere 15, 1 (Jan. 2024), 51. Number: 1 Publisher: Mu
 
 
 ## Co-authored conference contributions
-- Feb 2024 5th Congress of the Italian Association of Science for the Atmosphere and the Meteorology, Lecce, Italy (oral presentation). link
+- Feb 2024 5th Congress of the Italian Association of Science for the Atmosphere and the Meteorology, Lecce, Italy (oral presentation).
     Title: MEDUSA-GC/MS solution, the most recent cryotechnology applied to the continuous analysis of climate-altering substances in air samples
 
 - Jan 2024 PARIS-Horizon EU project Annual Meeting, Bristol, UK (oral presentation).
@@ -115,10 +114,10 @@ Analysis of different layered neural networks with different activation function
 - Recommender System based on user clickstream  
 The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.[code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
-## Conferences/Workshops attended
+## Workshops attended
 1. July 2022: Dare UK and Class International Summer School 2022, Southampton, UK
 2. May 2022: 65th Meeting of AGAGE Scientists and Cooperating Networks Empa Akademie – Dübendorf, Switzerland
-3.  Dec 2021: 3rd EUMETSAT/ESA/ECMWF joint training in atmospheric composition
+3. Dec 2021: 3rd EUMETSAT/ESA/ECMWF joint training in atmospheric composition
 4. Nov 2021: Workshop on Optical Aerosol properties by Italian Aerosol Society
 5. July 2021 IWAEC: Intensive Workshop on Atmospheric and Environmental Chemistry
 6. April 2021: Message Passing Interface(MPI) workshop, IISER Mohali
