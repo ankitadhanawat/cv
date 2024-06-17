@@ -1,11 +1,9 @@
 # Curriculum Vitae
 
-## Personal Data
-**Place and Date of Birth:** Jalgaon, Maharastra, India | 8 February 1997  
-
-**email:** saurabh.annadate9@gmail.com | saurabh.annadate@iusspavia.it
+**email:** saurabh.annadate9@gmail.com \ saurabh.annadate@iusspavia.it
 
 **Github:**  [saurabh-annadate](https://github.com/saurabh-annadate)
+**Linkdin** [Linkdin](https://www.linkedin.com/in/saurabh-annadate-468897138/)
 
 
 ## Education
