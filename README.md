@@ -6,7 +6,7 @@
 
 
 ## Education
-- **Ph.D. Climate Sciences** (Nov 2021 - Present) - in climate change and sustainable development. Jointly affiliated to IUSS Pavia and University of Urbino, Italy.\
+- **Ph.D. Climate Sciences** (Nov 2021 - Present) - in climate change and sustainable development. Jointly affiliated with IUSS Pavia and the University of Urbino, Italy.\
                           Title: Estimation of greenhouse gas emissions using inverse modelling (top-down) method.
   
 - **M.S. Physics** (August 2019 - June 2021) - Indian Institute of Science Education and Research Mohali, India [IISER Mohali](http://www.iisermohali.ac.in/)  
@@ -96,16 +96,16 @@ from **Department of Science and Technology, Government of India (DST)**.
 - **Statistical physics:** Implementation of Metropolis and Wolff algorithm on Ising model in Python  \
   This project explores the Metropolis algorithm and its implementation on the 2D Ising model in great detail. Monte Carlo simulations were used to calculate various critical parameters involved. [code](https://github.com/saurabh-annadate/Implementation-of-Metropolis-and-Wolff-algorithm-on-Ising-model-in-python) 
  
-- Fieldwork: Study of anthropogenic emissions and mitigation effects of Happy seeder in rural India  \
+- **Fieldwork:** Study of anthropogenic emissions and mitigation effects of Happy seeder in rural India  \
  In this project, I surveyed farmers to know the paddy residue burning practices in detail. I also gathered information on the usage of happy seeder and studied its mitigating effects on climate change.
  
-- Data Science: Employee Attrition analysis using data science techniques  \
+- **Data Science:** Employee Attrition analysis using data science techniques  \
  The aim of this project was to use various classification algorithms to classify employees based on attrition. Learned various data visualization and manipulation techniques. [code](https://github.com/saurabh-annadate/IBM-HR-Analytics-Employee-Attrition-Performance)
 
-- Machine Learning: Recognize handwritten numbers using Neural Network(Deep Learning)  \
-Analysis of different layered neural networks with different activation functions. [code](https://github.com/saurabh-annadate/Neural-network-from-scratch)  
-
-- Recommender System based on user clickstream  \
+- **Machine Learning:**
+1. Recognize handwritten numbers using Neural Network(Deep Learning)  \
+Analysis of different layered neural networks with different activation functions. [code](https://github.com/saurabh-annadate/Neural-network-from-scratch)  \
+2. Recommender System based on user clickstream**  \
 The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing. [code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
 ## Workshops attended
