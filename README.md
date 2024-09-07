@@ -105,7 +105,7 @@ from **Department of Science and Technology, Government of India (DST)**.
 - **Machine Learning:**
 1. Recognize handwritten numbers using Neural Network(Deep Learning)  \
 Analysis of different layered neural networks with different activation functions. [code](https://github.com/saurabh-annadate/Neural-network-from-scratch) 
-2. Recommender System based on user clickstream**  \
+2. Recommender System based on user clickstream \
 The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing. [code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
 ## Workshops attended
