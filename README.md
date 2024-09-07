@@ -18,16 +18,16 @@
 ## Awards and Achievements
 
 - Recipient of **ERASMUS+** scholarship by EU programme for education, training, youth, and sport in 2023.
-- I was awarded the **Prime Minister's Research Fellowship(PMRF) 2021** by the Ministry of Education, Government of India.
+- I was awarded the **Prime Minister's Research Fellowship (PMRF) 2021** by the Ministry of Education, Government of India.
 - Recipient of merit-cum-means fellowship at IISER Mohali.
 - Recipient of the Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
 from **Department of Science and Technology, Government of India (DST)**.
-- Qualified Joint Entrance Examination mains and advanced, 2016 conducted by National Testing Agency(NTA), India.
+- Qualified Joint Entrance Examination mains and advanced, 2016 conducted by National Testing Agency (NTA), India.
 
 ## Skills
 - Language Skills: Marathi, Hindi, English, and Italian (beginner)
 - Programming languages: Python, R, Fortran, Matlab, LaTeX
-- Softwares: FLEXPART, FLEXINVERT+, Weather research forecasting(WRF-Chem), Climate data operators(CDO), Igor-pro, UNIX environment
+- Softwares: FLEXPART, FLEXINVERT+, Weather research forecasting (WRF-Chem), Climate data operators (CDO), Igor-pro, UNIX environment
 - Satellite data: Experience handling and visualizing large satellite data sets. Experience working on supercomputer clusters of NOAA and CINECA
 - Measurements: Hands-on experience in handling CO, NOx, and O3 analyzers
 - Machine Learning: [Neural networks](https://github.com/saurabh-annadate/Neural-network-from-scratch), [Natural language processing](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream), and SVMs [certificate](https://saurabh-annadate.github.io/certificates/Coursera%207NPDD3Q3V35Z.pdf).
@@ -35,7 +35,7 @@ from **Department of Science and Technology, Government of India (DST)**.
 ## Experience in Atmospheric modelling
 - **PhD Project:** Emission estimates of radiatively active species at the regional scale using inverse modelling techniques.\
    Mentored by - Prof. Michela Maione, University of Urbino, Italy\
-  I use the analytical Bayesian inversion system to evaluate optimised fluxes of synthetic GHGs at the European country scale, using continuous, high-quality observations from the European observatories combined with footprints obtained using the atmospheric transport model(FLEXPART)
+  I use the analytical Bayesian inversion system to evaluate optimised fluxes of synthetic GHGs at the European country scale, using continuous, high-quality observations from the European observatories combined with footprints obtained using the atmospheric transport model (FLEXPART)
 
  - **PARIS Horizon Europe:**  Estimation of European Black Carbon fluxes using inverse modelling. [link](https://horizoneurope-paris.eu/source-attribution-for-european-aerosols/)\
   Mentored by - Prof. Michela Maione, University of Urbino, Italy\
@@ -50,7 +50,7 @@ from **Department of Science and Technology, Government of India (DST)**.
  
 - **Summer 2020:** Study of the biogenic emissions using updated tree cover in the MEGAN model  
       Mentored by - Prof. Vinayak Sinha, IISER Mohali  
-      There are a lot of discrepancies in actual tree cover over India and the one MEGAN(Model of Emissions of Gases and Aerosols from Nature) uses in the WRF-Chem setup. Trees significantly impact land-atmosphere feedback through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover with the newly created tree cover dataset improving isoprene emissions, planetary boundary layer height, and temperature with the ground measurements and satellite data.
+      There are a lot of discrepancies in actual tree cover over India and the one MEGAN (Model of Emissions of Gases and Aerosols from Nature) uses in the WRF-Chem setup. Trees significantly impact land-atmosphere feedback through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover with the newly created tree cover dataset improving isoprene emissions, planetary boundary layer height, and temperature with the ground measurements and satellite data.
 
 
 ## Publications
@@ -78,12 +78,12 @@ from **Department of Science and Technology, Government of India (DST)**.
     Title: MEDUSA-GC/MS solution, the most recent cryotechnology applied to the continuous analysis of climate-altering substances in air samples
 
 - Jan 2024 PARIS-Horizon EU project Annual Meeting, Bristol, UK (oral presentation).\
-    Title: Top-down Italian emissions of HFC-134a: 15 years trend and a comparison with the Italian National Inventory Reports.\
+    Title: Top-down Italian emissions of HFC-134a: 15 years trend and a comparison with the Italian National Inventory Reports.
 
 - Sept 2023 20th Congress of Italian Chemical Society, Division of Environmental Chemistry, Ischia, Italy (oral presentation).\
     Title: Long-term emission estimates of radiatively active species at the regional scale using inverse modelling techniques: Science for Service
 
-- April 2023 European Geosciences Union(EGU) General Assembly, Vienna, Austria (oral presentation)\
+- April 2023 European Geosciences Union(EGU) General Assembly, Vienna, Austria (oral presentation)
 
 ## Other projects
  - **Summer 2019:** Setting up optical tweezers and making a photo-acoustic sensor using Febri-Perot cavity  \
@@ -92,7 +92,7 @@ from **Department of Science and Technology, Government of India (DST)**.
  
  - **Summer 2018:** Optimization of RF waves using genetic algorithm  \
   Mentored by - Dr Kavita Dorai, IISER Mohali  
-  I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.\
+  I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.
  
 - **Statistical physics:** Implementation of Metropolis and Wolff algorithm on Ising model in Python  \
   This project explores the Metropolis algorithm and its implementation on the 2D Ising model in great detail. Monte Carlo simulations were used to calculate various critical parameters involved. [code](https://github.com/saurabh-annadate/Implementation-of-Metropolis-and-Wolff-algorithm-on-Ising-model-in-python) 
@@ -107,7 +107,7 @@ from **Department of Science and Technology, Government of India (DST)**.
 Analysis of different layered neural networks with different activation functions. [code](https://github.com/saurabh-annadate/Neural-network-from-scratch)  
 
 - Recommender System based on user clickstream  \
-The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing.[code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
+The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing. [code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
 
 ## Workshops attended
 1. July 2022: Dare UK and Class International Summer School 2022, Southampton, UK
