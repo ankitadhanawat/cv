@@ -1,4 +1,3 @@
-# Curriculum Vitae
 
 **email:** saurabh.annadate@iusspavia.it
 
@@ -57,10 +56,10 @@ from **Department of Science and Technology, Government of India (DST)**.
 
 1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118. [find here](https://www.sciencedirect.com/science/article/pii/S2590162121000186.)
 2. Sharma, G., **Annadate, S.**, Sinha, B.(2022). "Will open waste burning become India’s largest air pollution source?" Environmental Pollution, Volume 292, Part A, 118310. [find here](https://www.sciencedirect.com/science/article/pii/S0269749121018923)
-3. Annadate, S., 2021, A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
-4. Annadate, S., Falasca, S., Cesari, R., Giostra, U., Maione, M., and Arduini, J. A Sensitivity Study of a Bayesian Inversion Model Used to Estimate Emissions of Synthetic Greenhouse Gases at the European Scale. Atmosphere 15, 1 (Jan. 2024), 51. Number: 1 Publisher: Multidisciplinary Digital Publishing Institute. [find here](https://www.mdpi.com/2073-4433/15/1/51)
-5. Martin Vojta, Andreas Plach, Saurabh Annadate, Sunyong Park, Gawon Lee, Pallav Purohit, Florian Lindl, Xin Lan, Jens Mühle, Rona L. Thompson, and Andreas Stohl. A global re-analysis of regionally resolved emissions and atmospheric mole fractions of SF6 for the period 2005–2021. Atmospheric Chemistry and Physics. 2024. [find here](https://doi.org/10.5194/egusphere-2024-811)
-6. Rabia Ali Hundal, Saurabh Annadate, Rita Cesari, Alessio Collalti, Michela Maione, Paolo Cristofanelli. Emissions of climate-altering species from open vegetation fires in the Mediterranean region bioRxiv 2024.07.26.605246; doi: https://doi.org/10.1101/2024.07.26.605246
+3. **Annadate, S.**, 2021, A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
+4. **Annadate, S.**, Falasca, S., Cesari, R., Giostra, U., Maione, M., and Arduini, J. A Sensitivity Study of a Bayesian Inversion Model Used to Estimate Emissions of Synthetic Greenhouse Gases at the European Scale. Atmosphere 15, 1 (Jan. 2024), 51. Number: 1 Publisher: Multidisciplinary Digital Publishing Institute. [find here](https://www.mdpi.com/2073-4433/15/1/51)
+5. Martin Vojta, Andreas Plach, **Saurabh Annadate**, Sunyong Park, Gawon Lee, Pallav Purohit, Florian Lindl, Xin Lan, Jens Mühle, Rona L. Thompson, and Andreas Stohl. A global re-analysis of regionally resolved emissions and atmospheric mole fractions of SF6 for the period 2005–2021. Atmospheric Chemistry and Physics. 2024. [find here](https://doi.org/10.5194/egusphere-2024-811)
+6. Rabia Ali Hundal, **Saurabh Annadate**, Rita Cesari, Alessio Collalti, Michela Maione, Paolo Cristofanelli. Emissions of climate-altering species from open vegetation fires in the Mediterranean region bioRxiv 2024.07.26.605246; doi: https://doi.org/10.1101/2024.07.26.605246
 
 ## Conferences
 - **April 2024** European Geosciences Union(EGU) General Assembly, Vienna, Austria.\
